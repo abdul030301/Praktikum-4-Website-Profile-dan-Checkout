@@ -1,0 +1,22 @@
+.profile .foto .foto-saya {
+    width: 200px;
+    height: 200px;
+}
+.profile .profile-name {
+    vertical-align: text-top;
+    padding-left: 10px;
+}
+.profile .kategori .categories {
+    text-decoration-line: underline;
+}
+.profile .kategori {
+    vertical-align: text-top;
+    text-align: right;
+}
+.control .gmap .maps{
+    width: 300px;
+    height: 200px;
+}
+p, legend{
+    font-weight: bold;
+}
